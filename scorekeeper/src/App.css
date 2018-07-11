@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+body {
+    background-image: url('https://images.pexels.com/photos/1092491/pexels-photo-1092491.jpeg?auto=compress&cs=tinysrgb&h=350');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Poiret One', cursive;
+    font-size: 30px;
+}
+
+
